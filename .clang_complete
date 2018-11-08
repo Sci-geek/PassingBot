@@ -1,0 +1,54 @@
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/cores/arduino
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/variants/standard
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Servo/src
+-I/Users/Joel/.platformio/lib/Adafruit 9DOF Library_ID14
+-I/Users/Joel/.platformio/lib/Adafruit ADS1X15_ID342
+-I/Users/Joel/.platformio/lib/Adafruit BME280 Library_ID166
+-I/Users/Joel/.platformio/lib/Adafruit CCS811 Library_ID1798
+-I/Users/Joel/.platformio/lib/Adafruit GPS Library_ID20
+-I/Users/Joel/.platformio/lib/Adafruit L3GD20 U_ID23
+-I/Users/Joel/.platformio/lib/Adafruit LSM303DLHC_ID26
+-I/Users/Joel/.platformio/lib/Adafruit LSM9DS0 Library_ID585
+-I/Users/Joel/.platformio/lib/Adafruit LSM9DS1 Library_ID4175
+-I/Users/Joel/.platformio/lib/Adafruit MCP9808 Library_ID820
+-I/Users/Joel/.platformio/lib/Adafruit SGP30 Sensor_ID1955
+-I/Users/Joel/.platformio/lib/Adafruit Unified Sensor_ID31
+-I/Users/Joel/.platformio/lib/SD_ID161
+-I/Users/Joel/.platformio/lib/SD_ID868/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Adafruit_CircuitPlayground
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Adafruit_CircuitPlayground/utility
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Bridge/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Esplora/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Ethernet/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Firmata
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Firmata/utility
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/GSM/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Keyboard/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/LiquidCrystal/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Mouse/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/RobotIRremote/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Robot_Control/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Robot_Motor/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/SD/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/SpacebrewYun/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Stepper/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/TFT/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/Temboo/src
+-I/Users/Joel/.platformio/packages/framework-arduinoavr/libraries/WiFi/src
+-I/Users/Joel/.platformio/packages/toolchain-atmelavr/avr/include
+-I/Users/Joel/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/4.9.2/include
+-I/Users/Joel/.platformio/packages/toolchain-atmelavr/lib/gcc/avr/4.9.2/include-fixed
+-I/Users/Joel/.platformio/packages/tool-unity
+-I/Users/Joel/Desktop/PassingBot/include
+-I/Users/Joel/Desktop/PassingBot/src
+-DPLATFORMIO=30602
+-DARDUINO_AVR_UNO
+-DF_CPU=16000000L
+-DARDUINO_ARCH_AVR
+-DARDUINO=10805
+-D__AVR_ATmega328P__
